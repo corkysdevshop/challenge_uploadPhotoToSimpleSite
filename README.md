@@ -1,4 +1,4 @@
-# Challenge_blank
+# Challenge_uploadPhotoToSimpleSite
 A blank Challenge template for associates to create challenges from to improve their skill and others.
 * This should be something that you either learn, struggled with, or found interesting.
 * Challenges are like assignments for people to practice their skills.
