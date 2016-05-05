@@ -7,8 +7,9 @@ A blank Challenge template for associates to create challenges from to improve t
 1. Clone this repo using `git clone https://github.com/corkysdevshop/Challenge_blank.git` to create new challenges for others to complete.
  * Don't fork it, clone it, so you don't attach the git file to this repo.
 1. Answer a couple of questions here:
- * *What is the main goal of the challenge? What problem should be solved?* <br /><br />
+ * *What is the main goal of the challenge? What problem should be solved?* <br />
 Upload your associate picture to [Corky's Simple Site](https://github.com/corkysdevshop/simpleWebsite) so that it can be [displayed here](http://www.corkysdevshop.com/about.html)
+<br />
  * *What are the specs of the challenge? What are the sub-goals that need to be true for the main goal to be properly solved?* <br />
  It must be 260px by 260px
  <br />
