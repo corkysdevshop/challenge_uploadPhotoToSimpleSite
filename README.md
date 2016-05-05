@@ -10,7 +10,7 @@ A blank Challenge template for associates to create challenges from to improve t
  * What is the main goal of the challenge? What problem should be solved?
 Upload your associate picture to [Corky's Simple Site](https://github.com/corkysdevshop/simpleWebsite) so that it can be [displayed here](http://www.corkysdevshop.com/about.html)
  * What are the specs of the challenge? What are the sub-goals that need to be true for the main goal to be properly solved?
-  * It must be 260px by 260px
+ * It must be 260px by 260px
  * What's the context of this challenge? Describe what you should already know to try this challenge. What general approach should be taken?
 You should know how to fork a git repo modify it and and submit a pull request via the [prescribed git workflow](https://github.com/corkysdevshop/Admin/wiki/Git). You should also know how to resize an image.
 
