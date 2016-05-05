@@ -7,16 +7,16 @@ A blank Challenge template for associates to create challenges from to improve t
 1. Clone this repo using `git clone https://github.com/corkysdevshop/Challenge_blank.git` to create new challenges for others to complete.
  * Don't fork it, clone it, so you don't attach the git file to this repo.
 1. Answer a couple of questions here:
- * What is the main goal of the challenge? What problem should be solved?
+ * *What is the main goal of the challenge? What problem should be solved?*
 Upload your associate picture to [Corky's Simple Site](https://github.com/corkysdevshop/simpleWebsite) so that it can be [displayed here](http://www.corkysdevshop.com/about.html)
- * What are the specs of the challenge? What are the sub-goals that need to be true for the main goal to be properly solved?
- * It must be 260px by 260px
- * What's the context of this challenge? Describe what you should already know to try this challenge. What general approach should be taken?
-You should know how to fork a git repo modify it and and submit a pull request via the [prescribed git workflow](https://github.com/corkysdevshop/Admin/wiki/Git). You should also know how to resize an image.
+ * *What are the specs of the challenge? What are the sub-goals that need to be true for the main goal to be properly solved?* <br />
+ It must be 260px by 260px
+ * *What's the context of this challenge? Describe what you should already know to try this challenge. What general approach should be taken?*  <br />
+ You should know how to fork a git repo modify it and and submit a pull request via the [prescribed git workflow](https://github.com/corkysdevshop/Admin/wiki/Git). You should also know how to resize an image.
 
- * Were there any articles or resources that were particularly useful in accomplishing this challenge?
- * What were some of the things that you learned that you didn't know before?
- * If you were to give this challenge tags, what would they be?
+ * *Were there any articles or resources that were particularly useful in accomplishing this challenge?*  <br />
+ * *What were some of the things that you learned that you didn't know before?*  <br />
+ * *If you were to give this challenge tags, what would they be?*  <br /> 
 Git
 1. Include project files in this directory and modify this README however you see fit.
 1. Upload challenge to Corky's repository
